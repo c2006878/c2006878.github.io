@@ -1,9 +1,9 @@
 ---
 # Display name
-title: xxx
+title: 陈俊宁
 
 # Name pronunciation (optional)
-name_pronunciation: CHEN Junning
+name_pronunciation: CHEN JUNNING
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Technical Assistance of CSSE
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Cardiff University
+    url: https://www.cardiff.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Front-end Development
+  - User experience (UX) design
+  - Responsive design
 
 # Education to show in About widget
 education:
@@ -39,6 +39,9 @@ education:
     - course: Software Engineering with a Professional Placement Year (MSc)
       institution: Cardiff University
       year: 2022
+    - course: Information Technology (BSc)
+      institution: Southern Cross University
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -104,5 +107,10 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a dedicated professional specializing in offering technical support for website development.
+My expertise spans across various aspects of web development, from troubleshooting code issues to 
+optimizing site performance. I am passionate about empowering clients with the knowledge and tools
+they need to achieve their online objectives. Whether you're dealing with complex technical challenges
+or seeking to enhance your website's functionality, I am here to provide the support and guidance 
+necessary to navigate the digital landscape successfully.
 {style="text-align: justify;"}
