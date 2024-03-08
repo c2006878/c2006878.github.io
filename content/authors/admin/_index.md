@@ -21,17 +21,18 @@ role: Technical Assistance of CSSE
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cardiff University
-    url: https://www.cardiff.ac.uk/
+  - name: Shenzhen University
+    url: https://www.szu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Front-end Development
-  - User experience (UX) design
-  - Responsive design
+  - Software Development
+  - Digital Interaction and the User Experience
+  - Networks and Cybersecurity
+  - Big Data Technologies
 
 # Education to show in About widget
 education:
@@ -108,9 +109,12 @@ highlight_name: true
 ---
 
 I am a dedicated professional specializing in offering technical support for website development.
-My expertise spans across various aspects of web development, from troubleshooting code issues to 
+My expertise spans across various aspects of web development, from troubleshooting code issues to
 optimizing site performance. I am passionate about empowering clients with the knowledge and tools
 they need to achieve their online objectives. Whether you're dealing with complex technical challenges
-or seeking to enhance your website's functionality, I am here to provide the support and guidance 
+or seeking to enhance your website's functionality, I am here to provide the support and guidance
 necessary to navigate the digital landscape successfully.
+
+<span style="color: red; font-weight: bold;">“The degree really refined my areas of interest. I saw how it could offer a fantastic way to pivot and be flexible, and to be confident in making those kinds of decisions.”</span>
 {style="text-align: justify;"}
+
